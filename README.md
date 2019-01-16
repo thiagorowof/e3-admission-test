@@ -27,7 +27,7 @@ Após o usuario realizar o login, deve ser exibida uma tela de listagem de produ
 
 A API de produtos é essa:
 
-https://reqres.in/api/products
+https://e3-cluster-dev.sao01.containers.appdomain.cloud/api/product/test?NUMREGIAO=5&CODFILIAL=1
 
 Geralmente essa API demora entre 2~6 segs para responder devido a quantidade de dados.
 
