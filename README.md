@@ -8,6 +8,8 @@ A sua missão vai ser criar um app em React Native. Esse app vai ser simples, pr
 
 E também, um backend usando NodeJS + ExpressJS + TypeScript (sim, TypeScript vai ser OBRIGATORIO nessa camada).
 
+Em ambas as camadas, utilizamos o yarn como gerenciador de pacotes.
+
 ## Camada mobile
 
 Nessa camada, você deverá criar um app em React Native (versão mais recente), com as seguintes features:
