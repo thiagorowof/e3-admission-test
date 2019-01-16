@@ -89,7 +89,7 @@ O boilerplate gerado usa o `mongoose` como ODM (Object Data Mapping) e já está
 
 Você deve criar uma entidade chamada `Product` com a mesma interface descrita na camada mobile como primeira entidade.
 
-Após o gerador concluir o seu trabalho. Crie mais duas entidades, chamadas `Stock` e `Price`. As interfaces vem a seguir:
+Após o gerador concluir o seu trabalho. Crie mais duas entidades, chamadas `Stock` e `Price` (infelizmente o nosso gerador AINDA não cria entidades dentro de um projeto existente, então você deveriar construir elas manualmente seguindo o padrão da entidade `Product`). As interfaces vem a seguir:
 
 ```typescript
 interface Price extends IMongoModel {
