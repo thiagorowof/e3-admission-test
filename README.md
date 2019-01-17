@@ -12,7 +12,11 @@ Em ambas as camadas, utilizamos o yarn como gerenciador de pacotes.
 
 ## Camada mobile
 
-Nessa camada, você deverá criar um app em React Native (versão mais recente), com as seguintes features:
+Nessa camada, você deverá criar um app em React Native (versão mais recente)
+
+O app deve dar suporte para a plataforma Android versão 7+
+
+As features a serem construidas são:
 
 - Tela de login (fake, não precisa de integração com API, salvar os dados no local storage e verificar se esses dados existem para validar a seção);
 - Função de logout (limpar o local storage);
