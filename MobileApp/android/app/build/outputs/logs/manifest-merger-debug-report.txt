@@ -1,0 +1,167 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-vector-icons] /Users/thiago/Desktop/e3-admission-test/MobileApp/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-splash-screen] /Users/thiago/Desktop/e3-admission-test/MobileApp/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-gesture-handler] /Users/thiago/Desktop/e3-admission-test/MobileApp/node_modules/react-native-gesture-handler/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.55.3] /Users/thiago/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/9cb21780708b418442d84f3038565d6a/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e2357574e87187ff27cf901fd1cc223d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/e0c7d5edab954d92cd8927dc8ee6ae22/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/75b3cd9d7dac35d77ea989e0771737f6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/581907e09b6040b817c6fc7536a2f6db/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/0cb3772a084298862df7b386d7103ab9/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/thiago/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/f3d8cb703e7dc8b784c36c5484c1ce2d/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/e0426b9c99ac071b137ad049d379a231/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/f232c4959654566acd3696c8c968e58a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/5381290be2e62393aea8794bd0e6f9a9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/0c75af3fa83b5dc2712b47c8fce4c0cc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/thiago/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8b6e1acc4ed53b06b97e6e1dec602eea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/thiago/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/6ed7f88b3ddc3b468e37ca7653c739ff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/thiago/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7a6a7ed849369fb86c1d1aa80685e5ec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/thiago/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/aa1059d7ded1b69bfe2e1386ad90fd80/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/thiago/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/955d72c2497faf60c52117d9d110af00/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/thiago/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e52d5461711eeda5f1d18d3ad46541de/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/31032993c4b9d8c15b0ff641df89d381/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bc7c4ab93c7e53c9a96f42959cc1c011/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/39d75898506debcda9be29f5cdf0c747/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7cad4dc0d9a71a667605280af9fd5c42/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:2:5-28
+		INJECTED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.55.3] /Users/thiago/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/9cb21780708b418442d84f3038565d6a/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.3] /Users/thiago/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/9cb21780708b418442d84f3038565d6a/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [:react-native-splash-screen] /Users/thiago/Desktop/e3-admission-test/MobileApp/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] /Users/thiago/Desktop/e3-admission-test/MobileApp/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [com.facebook.react:react-native:0.55.3] /Users/thiago/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/9cb21780708b418442d84f3038565d6a/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.3] /Users/thiago/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/9cb21780708b418442d84f3038565d6a/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/0cb3772a084298862df7b386d7103ab9/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/0cb3772a084298862df7b386d7103ab9/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/thiago/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/f3d8cb703e7dc8b784c36c5484c1ce2d/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/thiago/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/f3d8cb703e7dc8b784c36c5484c1ce2d/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:10:7-36
+	android:allowBackup
+		ADDED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.e3labsapp.MainActivity
+ADDED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-vector-icons] /Users/thiago/Desktop/e3-admission-test/MobileApp/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/thiago/Desktop/e3-admission-test/MobileApp/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/thiago/Desktop/e3-admission-test/MobileApp/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/thiago/Desktop/e3-admission-test/MobileApp/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/thiago/Desktop/e3-admission-test/MobileApp/node_modules/react-native-gesture-handler/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/thiago/Desktop/e3-admission-test/MobileApp/node_modules/react-native-gesture-handler/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.3] /Users/thiago/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/9cb21780708b418442d84f3038565d6a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.3] /Users/thiago/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/9cb21780708b418442d84f3038565d6a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e2357574e87187ff27cf901fd1cc223d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/thiago/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e2357574e87187ff27cf901fd1cc223d/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/e0c7d5edab954d92cd8927dc8ee6ae22/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/e0c7d5edab954d92cd8927dc8ee6ae22/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/75b3cd9d7dac35d77ea989e0771737f6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/75b3cd9d7dac35d77ea989e0771737f6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/581907e09b6040b817c6fc7536a2f6db/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/581907e09b6040b817c6fc7536a2f6db/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/0cb3772a084298862df7b386d7103ab9/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/0cb3772a084298862df7b386d7103ab9/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/e0426b9c99ac071b137ad049d379a231/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/e0426b9c99ac071b137ad049d379a231/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/f232c4959654566acd3696c8c968e58a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/f232c4959654566acd3696c8c968e58a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/5381290be2e62393aea8794bd0e6f9a9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/5381290be2e62393aea8794bd0e6f9a9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/0c75af3fa83b5dc2712b47c8fce4c0cc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/0c75af3fa83b5dc2712b47c8fce4c0cc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/thiago/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8b6e1acc4ed53b06b97e6e1dec602eea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/thiago/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8b6e1acc4ed53b06b97e6e1dec602eea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/thiago/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/6ed7f88b3ddc3b468e37ca7653c739ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/thiago/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/6ed7f88b3ddc3b468e37ca7653c739ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/thiago/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7a6a7ed849369fb86c1d1aa80685e5ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/thiago/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7a6a7ed849369fb86c1d1aa80685e5ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/thiago/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/aa1059d7ded1b69bfe2e1386ad90fd80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/thiago/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/aa1059d7ded1b69bfe2e1386ad90fd80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/thiago/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/955d72c2497faf60c52117d9d110af00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/thiago/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/955d72c2497faf60c52117d9d110af00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/thiago/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e52d5461711eeda5f1d18d3ad46541de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/thiago/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e52d5461711eeda5f1d18d3ad46541de/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/31032993c4b9d8c15b0ff641df89d381/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/31032993c4b9d8c15b0ff641df89d381/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bc7c4ab93c7e53c9a96f42959cc1c011/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bc7c4ab93c7e53c9a96f42959cc1c011/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/39d75898506debcda9be29f5cdf0c747/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/39d75898506debcda9be29f5cdf0c747/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7cad4dc0d9a71a667605280af9fd5c42/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/thiago/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7cad4dc0d9a71a667605280af9fd5c42/AndroidManifest.xml:20:5-44
+INJECTED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

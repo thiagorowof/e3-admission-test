@@ -1,0 +1,25 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: e3labs-backendAdmission-service
+spec:
+  selector:
+    matchLabels:
+      app: e3labs-backendAdmission-service
+  replicas: 2
+  template:
+    metadata:
+      labels:
+        app: e3labs-backendAdmission-service
+    spec:
+      containers:
+      - name: e3labs-backendAdmission-service
+        image: e3labs-backendAdmission-service:latest
+        ports:
+          - containerPort: 3000
+        livenessProbe:
+          initialDelaySeconds: 20
+          periodSeconds: 5
+          httpGet:
+            path: /health
+            port: 3000

@@ -1,0 +1,4 @@
+#Wed Jan 23 22:52:32 BRT 2019
+base.0=/Users/thiago/Desktop/e3-admission-test/MobileApp/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: e3labs-backendAdmission-service-alb
+  labels:
+    app: e3labs-backendAdmission-service
+spec:
+  selector:
+    app: e3labs-backendAdmission-service
+  ports:
+  - port: 80
+    protocol: TCP
+    targetPort: 3000
